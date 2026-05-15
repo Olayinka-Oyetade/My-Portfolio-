@@ -26,12 +26,6 @@
       "url": "mailto:olayinkaoyetade2914@gmail.com",
       "icon": "mdi:email",
       "showInContact": true
-    },
-    {
-      "name": "Whatsapp",
-      "url": "https://wa.me/6479268205",
-      "icon": "mdi:whatsapp",
-      "showInContact": true
     }
   ]
 }
