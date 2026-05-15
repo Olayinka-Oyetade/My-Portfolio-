@@ -1,72 +1,37 @@
 {
-  "name": "John Doe",
-  "photoUrl": "favicon.svg",
-  "intro": "A brief, compelling introduction about who you are and what you do. Mention your core philosophy, your passion for building digital products, and your drive for creating efficient, high-impact solutions.",
-  "introHtml": "A brief, compelling introduction about who you are and what you do. Mention your core <span class='text-white font-bold'>philosophy</span>, your passion for building digital products, and your drive for creating <span class='text-white font-bold'>efficient</span>, <span class='text-white font-bold'>high-impact</span> solutions.",
-  "webpageTitle": "John Doe",
+  "name": "Oyetade Olayinka",
+  "photoUrl": "Olayinka_Profile_Picture.jpeg",
+  "intro": "A cybersecurity professional who builds real-world threat detection systems. I simulate attacks, detect them with Splunk SIEM, and document every finding to industry standard. I don't just study security, I practise it.",
+  "introHtml": "A cybersecurity professional who <span class='text-white font-bold'>builds</span> real-world threat detection systems. I simulate attacks, detect them with <span class='text-white font-bold'>Splunk SIEM</span>, and document every finding to industry standard. I don't just study security — I <span class='text-white font-bold'>practise it</span>.",
+  "webpageTitle": "Oyetade Olayinka | SOC Analyst",
   "resumeUrl": "https://example-files.online-convert.com/document/pdf/example.pdf",
 
   "_comment": "Add your social links below. Leave the 'url' empty to hide the icon. Set 'showInContact' to true or false to control if it appears in the Contact section.",
   "socials": [
     {
       "name": "GitHub",
-      "url": "https://github.com/[YOUR_USER_NAME]",
+      "url": "https://github.com/Olayinka-Oyetade/Olayinka-Oyetade",
       "icon": "mdi:github",
       "showInContact": true
     },
     {
       "name": "LinkedIn",
-      "url": "https://linkedin.com/in/[YOUR_USER_NAME]",
+      "url": "https://www.linkedin.com/in/olayinka-oyetade-0120171a2/",
       "icon": "mdi:linkedin",
       "showInContact": true
     },
-    {
-      "name": "Leetcode",
-      "url": "#",
-      "icon": "devicon-plain:leetcode",
-      "showInContact": false
-    },
-    {
-      "name": "Behance",
-      "url": "#",
-      "icon": "devicon-plain:behance",
-      "showInContact": false
-    },
+    
     {
       "name": "Email",
-      "url": "mailto:your-mail@example.com",
+      "url": "mailto:olayinkaoyetade2914@gmail.com",
       "icon": "mdi:email",
       "showInContact": true
     },
     {
       "name": "Whatsapp",
-      "url": "https://wa.me/[YOUR_WHATSAPP_NUMBER]",
+      "url": "https://wa.me/6479268205",
       "icon": "mdi:whatsapp",
       "showInContact": true
-    },
-    {
-      "name": "Facebook",
-      "url": "#",
-      "icon": "mdi:facebook",
-      "showInContact": false
-    },
-    {
-      "name": "Messenger",
-      "url": "#",
-      "icon": "mdi:facebook-messenger",
-      "showInContact": true
-    },
-    {
-      "name": "Instagram",
-      "url": "#",
-      "icon": "mdi:instagram",
-      "showInContact": false
-    },
-    {
-      "name": "Twitter",
-      "url": "#",
-      "icon": "mdi:twitter",
-      "showInContact": false
     }
   ]
 }

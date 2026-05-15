@@ -1,35 +1,35 @@
 {
   "categories": [
     {
-      "title": "Mobile Development",
+      "title": "SIEM & Detection",
       "skills": [
-        { "name": "Flutter", "level": 3, "icon": "skill-icons:flutter-dark" },
-        { "name": "Dart", "level": 3, "icon": "skill-icons:dart-dark" },
-        { "name": "Kotlin", "level": 1, "icon": "skill-icons:kotlin-dark" }
+        { "name": "Splunk", "level": 3, "icon": "skill-icons:elasticsearch-dark" },
+        { "name": "Splunk SPL", "level": 3, "icon": "skill-icons:elasticsearch-dark" },
+        { "name": "Sigma Rules", "level": 2, "icon": "skill-icons:elasticsearch-dark" }
       ]
     },
     {
-      "title": "Frontend",
+      "title": "Endpoint Telemetry",
       "skills": [
-        { "name": "Astro", "level": 2, "icon": "skill-icons:astro" },
-        { "name": "HTML", "level": 2, "icon": "skill-icons:html" },
-        { "name": "CSS", "level": 2, "icon": "skill-icons:css" },
-        { "name": "Tailwind CSS", "level": 1, "icon": "skill-icons:tailwindcss-dark" }
+        { "name": "Sysmon", "level": 3, "icon": "skill-icons:windows-dark" },
+        { "name": "Windows Event Logs", "level": 3, "icon": "skill-icons:windows-dark" },
+        { "name": "PowerShell", "level": 2, "icon": "skill-icons:powershell-dark" }
       ]
     },
     {
-      "title": "Backend",
+      "title": "Frameworks & Methodology",
       "skills": [
-        { "name": "FastAPI", "level": 2, "icon": "skill-icons:fastapi" },
-        { "name": "Python", "level": 2, "icon": "skill-icons:python-dark" },
-        { "name": "Firebase", "level": 3, "icon": "vscode-icons:file-type-firebase" }
+        { "name": "MITRE ATT&CK", "level": 3, "icon": "skill-icons:linux-dark" },
+        { "name": "Incident Response", "level": 3, "icon": "skill-icons:linux-dark" },
+        { "name": "Threat Hunting", "level": 2, "icon": "skill-icons:linux-dark" }
       ]
     },
     {
-      "title": "Database",
+      "title": "Infrastructure",
       "skills": [
-        { "name": "SQLite", "level": 3, "icon": "skill-icons:sqlite" },
-        { "name": "PostgreSQL", "level": 2, "icon": "skill-icons:postgresql-dark" }
+        { "name": "Windows Server", "level": 3, "icon": "skill-icons:windows-dark" },
+        { "name": "Virtualization (VM)", "level": 2, "icon": "skill-icons:linux-dark" },
+        { "name": "Network Fundamentals", "level": 2, "icon": "skill-icons:linux-dark" }
       ]
     }
   ]

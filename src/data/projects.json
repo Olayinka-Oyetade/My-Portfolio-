@@ -1,20 +1,11 @@
 [
   {
-    "title": "Awesome Website",
-    "description": "A high-performance, SEO-optimized web application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-01.webp", "astro-02.jpeg"],
-    "tech": ["Astro", "Tailwind"],
+    "title": "Endpoint Detection Engineering | Splunk, Sysmon, MITRE ATT&CK",
+    "description": "Built a Windows endpoint detection environment using Splunk and Sysmon to simulate, detect, and investigate four MITRE ATT&CK techniques: LSASS Credential Dumping (T1003.001), Malicious Service Creation (T1543.003), Registry Run Key Persistence (T1547.001), and Scheduled Task Persistence (T1053.005). Authored SPL detection rules with automated alerting, tuned to zero false positives. All findings documented in structured incident reports, detection logic write-ups, and portfolio case studies following SOC documentation standards.",
+    "images": ["splunk-dashboard.png"],
+    "tech": ["Splunk", "Sysmon", "Windows Event Logs", "SPL", "MITRE ATT&CK", "PowerShell"],
     "platforms": ["web"],
-    "link": "https://astro.build/themes/details/career-portfolio-data-driven-astro-ssg/",
-    "category": "Published Website"
-  },
-  {
-    "title": "Demo Mobile App",
-    "description": "A high-performance mobile application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-02.jpeg", "#"],
-    "tech": ["Flutter", "Dart", "REST API"],
-    "platforms": ["apple-ios", "android"],
-    "link": "https://github.com/nbakh16/career-portfolio-template",
-    "category": "Hobby"
+    "link": "https://github.com/Olayinka-Oyetade/endpoint-detection-engineering",
+    "category": "Threat Detection Engineering"
   }
 ]

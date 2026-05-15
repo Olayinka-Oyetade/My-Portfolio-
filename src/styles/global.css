@@ -41,9 +41,9 @@
   /* Default Theme - Dark */
   :root,
   [data-theme="default-dark"] {
-    --color-background: #0F0D29;
+    --color-background: #040404;
     --color-accent: #A78BFA;
-    --color-maintext: #FFFFFF;
+    --color-maintext: #f9f7f7;
     --color-subtext: #b2bed1;
     --color-textrain: #7d7b9c;
   }
@@ -123,7 +123,7 @@
       135deg,    
       color-mix(in srgb, var(--color-background), black 16%) 0%,
       var(--color-background) 50%,
-      color-mix(in srgb, var(--color-background), white 16%) 100%
+      color-mix(in srgb, var(--color-background), rgb(14, 13, 13) 16%) 100%
     );
     background-attachment: fixed;
     min-height: 100vh;

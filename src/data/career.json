@@ -1,26 +1,34 @@
 [
   {
-    "company": "Demo Company",
-    "role": "Lead Software Engineer",
-    "period": "Oct 2025 - Present",
-    "type": "Full time job",
-    "description": "Leading cross-platform mobile development using Flutter and FastAPI. Focused on scalable system design and high-performance data processing.",
-    "skills": ["Leading", "Collaboration"]
+    "company": "Iron Defense",
+    "role": "SOC Analyst",
+    "period": "Feb 2024 - Mar 2025",
+    "type": "Full time",
+    "description": "Monitored and triaged security alerts in a production SOC environment, investigating suspicious endpoint, network, and authentication activity using Splunk, Sysmon, and Windows Event Logs. Reviewed alerts to determine true positive, false positive, and suspicious activity, documented investigation findings, escalated confirmed threats, and supported incident response workflows. Created clear incident timelines, identified indicators of compromise, and recommended remediation steps to reduce risk and improve detection quality.",
+    "skills": ["Splunk", "Sysmon", "Windows Event Logs", "Process Monitor", "Jira", "Incident Response", "Alert Triage", "IOC Analysis", "MITRE ATT&CK", "Endpoint Investigation"]
   },
   {
-    "company": "Demo Company",
-    "role": "Full-stack Developer",
-    "period": "Sep 2023 - Sep 2025",
-    "type": "Full time job",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["React", "Node.js", "PostgreSQL", "Docker"]
+    "company": "CSDC Systems",
+    "role": "Front-End Developer",
+    "period": "Aug 2023 - Jan 2024",
+    "type": "Co-op",
+    "description": "Developed and maintained responsive web interfaces using HTML, CSS, JavaScript, and front-end frameworks for an enterprise solutions company serving government clients across Nigeria. Worked with UI components, API-connected pages, and navigation flows to improve usability and performance. Strengthened technical problem-solving, debugging, and documentation skills that directly support SOC investigation and security analysis work.",
+    "skills": ["HTML", "CSS", "JavaScript", "REST API", "Git", "Debugging", "Technical Documentation"]
   },
   {
-    "company": "Demo University of Tech",
-    "role": "BSc in Computer Science",
-    "period": "Jun 2020 - Jun 2024",
-    "type": "Student",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["C++", "OOP", "Problem Solving"]
+    "company": "NNPC",
+    "role": "IT Technician",
+    "period": "Jan 2019 - Jun 2019",
+    "type": "Internship",
+    "description": "Provided hands-on IT support at one of Nigeria's largest organisations, resolving hardware and software issues for staff across the department. Diagnosed and repaired endpoint problems, supported system configurations, and maintained operational uptime for critical workstations. Built foundational knowledge of enterprise IT infrastructure and endpoint environments that underpins current security operations work.",
+    "skills": ["Hardware Troubleshooting", "Software Support", "Endpoint Management", "IT Infrastructure", "Problem Solving"]
+  },
+  {
+    "company": "Babcock University",
+    "role": "BSc in Cybersecurity / Computer Science",
+    "period": "Aug 2017 - Jun 2021",
+    "type": "Full time",
+    "description": "Completed undergraduate studies with a focus on cybersecurity, computer networks, operating systems, programming, and security fundamentals. Built a strong foundation in threat analysis, system security, scripting, and technical problem-solving, supporting continued growth toward SOC analysis and threat detection roles.",
+    "skills": ["Cybersecurity Fundamentals", "Network Security", "Operating Systems", "Threat Analysis", "Scripting", "Problem Solving"]
   }
 ]
