@@ -2,7 +2,7 @@
   {
     "title": "Endpoint Detection Engineering | Splunk, Sysmon, MITRE ATT&CK",
     "description": "Built a Windows endpoint detection environment using Splunk and Sysmon to simulate, detect, and investigate four MITRE ATT&CK techniques: LSASS Credential Dumping (T1003.001), Malicious Service Creation (T1543.003), Registry Run Key Persistence (T1547.001), and Scheduled Task Persistence (T1053.005). Authored SPL detection rules with automated alerting, tuned to zero false positives. All findings documented in structured incident reports, detection logic write-ups, and portfolio case studies following SOC documentation standards.",
-    "images": ["/mde-Splunk_card_image.jpeg"],
+    "images": ["/Splunk_card_image.jpeg"],
     "tech": ["Splunk", "Sysmon", "Windows Event Logs", "SPL", "MITRE ATT&CK", "PowerShell"],
     "platforms": ["web"],
     "link": "https://github.com/Olayinka-Oyetade/endpoint-detection-engineering",
