@@ -15,7 +15,7 @@
     "images": ["mde-lsass-investigation.png"],
     "tech": ["Microsoft Defender for Endpoint", "Microsoft Defender XDR", "KQL", "Atomic Red Team", "MITRE ATT&CK", "VirusTotal", "PowerShell"],
     "platforms": ["web"],
-    "link": "https://olayinkaoyetade.com/lsass-investigation.html",
+    "link": "file:///C:/Users/olayi/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/LocalState/sessions/9976B8B756BF8A6A2AD5E02EBA4EB9C11AA925D8/transfers/2026-23/T1003.001_LSASS_Investigation_Report.html",
     "category": "Threat Detection Engineering"
 }
 ]
