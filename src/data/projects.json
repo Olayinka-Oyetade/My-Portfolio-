@@ -7,5 +7,16 @@
     "platforms": ["web"],
     "link": "https://github.com/Olayinka-Oyetade/endpoint-detection-engineering",
     "category": "Threat Detection Engineering"
-  }
+  },
+
+  {
+    "title": "LSASS Credential Dumping: Detection & Investigation | Microsoft Defender, KQL",
+    "description": "Emulated a realistic LSASS credential-theft attack chain against a Microsoft Defender for Endpoint monitored Windows Server, then ran a full blue-team investigation to validate detection coverage. Used KQL advanced hunting across process, file, and network telemetry to reconstruct the attack lifecycle from a PowerShell download cradle through credential dumping (T1003.001) to post-exploitation discovery, enriched findings with VirusTotal threat intelligence, and confirmed impact through on-disk artifact analysis. Authored reusable KQL detection analytics with false-positive tuning and documented the investigation in a structured incident report following SOC documentation standards.",
+    "images": ["mde-lsass-investigation.png"],
+    "tech": ["Microsoft Defender for Endpoint", "Microsoft Defender XDR", "KQL", "Atomic Red Team", "MITRE ATT&CK", "VirusTotal", "PowerShell"],
+    "platforms": ["web"],
+    "link": "https://olayinkaoyetade.com/lsass-investigation.html",
+    "category": "Threat Detection Engineering"
+}
 ]
+
