@@ -15,7 +15,7 @@
     "images": ["mde-lsass-investigation.png"],
     "tech": ["Microsoft Defender for Endpoint", "Microsoft Defender XDR", "KQL", "Atomic Red Team", "MITRE ATT&CK", "VirusTotal", "PowerShell"],
     "platforms": ["web"],
-    "link": "https://olayinkaoyetade.com/T1003.001_LSASS_Investigation_Report.astro",
+    "link": "https://olayinkaoyetade.com/lsass-investigation.html", 
     "category": "Threat Detection Engineering"
 }
 ]
